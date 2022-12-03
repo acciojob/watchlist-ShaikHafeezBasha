@@ -1,7 +1,5 @@
 package com.driver;
 
-//Director.java Class - String name, int numberOfMovies, double imdbRating, no-args constructor, all-args constructor and getters-setters
-
 public class Director {
 
     private String name;
